@@ -14,7 +14,7 @@ const TopBar = () => {
             className="hidden sm:flex items-center gap-2 hover:text-gray-200"
           >
             <FaEnvelope />
-            <span className="hidden md:inline">developernoorshaikh00@gmail.com</span>
+            <span className="hidden md:inline">aqsamajeedking313@gmail.com</span>
           </a>
           {/* Phone - Hidden on small screens */}
           <a
